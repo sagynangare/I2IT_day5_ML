@@ -1,5 +1,3 @@
-__author__ = 'shekhargulati'
-
 pos_tweets = [('I love this car', 'positive'),
               ('This view is amazing', 'positive'),
               ('I feel great this morning', 'positive'),

@@ -1,5 +1,3 @@
-__author__ = 'shekhargulati'
-
 """
 1. Read the positive review file, tokenize it, and add it to a list of tuple. Tuple ([list of words],label)
 2. Read the negative review file, tokenize it, and add it to a list of tuple. Tuple ([list of words],label)

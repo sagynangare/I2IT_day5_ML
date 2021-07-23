@@ -1,4 +1,3 @@
-__author__ = 'shekhargulati'
 
 import os, re, math, collections
 import nltk.metrics
